@@ -1,1 +1,2 @@
-# Flight_Dynamics_Modelling_UAV
+## Integrated Flight Dynamics and Control System Simulation of Unmanned Aerial Vehicles
+This project utilises MATLAB and Simulink to model aircraft flight dynamics, control surfaces, and terrain animations. Incorporating a Dryden model for gust effects, have also modelled a gyroscope and IMU with noise and bias. Attitude estimation algorithms (Q-method, Kalman Filter, Non-complementary Filter) are implemented and evaluated against true results, providing insights into their validity for aerospace applications.
